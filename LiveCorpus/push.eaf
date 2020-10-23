@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-22T23:59:23+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-23T23:45:06+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./push.mp4"/>
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./push.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../push.mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../push.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0c22902a-eb79-4e9b-bb28-8f8734764507</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3134</PROPERTY>
     </HEADER>
@@ -1307,7 +1307,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts201">
-                <ANNOTATION_VALUE>а / в тысяча девятьсот девяносто шестом году</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа / в тысяча девятьсот девяносто шестом году</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1572,7 +1572,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts983" TIME_SLOT_REF2="ts1019">
-                <ANNOTATION_VALUE>я не знаю я еще раз говорю если мне расскажут секрет этого успеха я с удовольствием его послушаю но мне кажется / что в этом секрете их успеха очень много есть / а логичных просчитанных аргументов</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я не знаю я еще раз говорю если мне расскажут секрет этого успеха я с удовольствием его послушаю но мне кажется / что в этом секрете их успеха очень много есть / ааа логичных просчитанных аргументов</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1587,12 +1587,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts1039" TIME_SLOT_REF2="ts1052">
-                <ANNOTATION_VALUE>а вот Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а вот Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts1053" TIME_SLOT_REF2="ts1119">
-                <ANNOTATION_VALUE>вот потому что потому ч... / потому что был Beattles // был Beattles / уже / как созданный продукт существовал готовый // и к этому добавили грубо говоря / ценник приклеели это стоит вот столько и после этого это стало продаваться //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот потому что потому ч... / потому что был Beatles // был Beattles / уже / как созданный продукт существовал готовый // и к этому добавили грубо говоря / ценник приклеели это стоит вот столько и после этого это стало продаваться //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1779,12 +1779,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts1026" TIME_SLOT_REF2="ts1042">
-                <ANNOTATION_VALUE>вот Beattles тебе нравятся а Imagine g... Dragons не нравятся</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот Beatles тебе нравятся а Imagine g... Dragons не нравятся</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts1043" TIME_SLOT_REF2="ts1098">
-                <ANNOTATION_VALUE>вот Beattles там никакого просчета не было да? </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот Beatles там никакого просчета не было да? </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2951,7 +2951,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2257" TIME_SLOT_REF1="ts1027" TIME_SLOT_REF2="ts1028">
-                <ANNOTATION_VALUE>Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3001,7 +3001,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2267" TIME_SLOT_REF1="ts1044" TIME_SLOT_REF2="ts1045">
-                <ANNOTATION_VALUE>Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3603,7 +3603,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2387" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
-                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6588,7 +6588,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2984" TIME_SLOT_REF1="ts1015" TIME_SLOT_REF2="ts1016">
-                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6653,7 +6653,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2997" TIME_SLOT_REF1="ts1041" TIME_SLOT_REF2="ts1052">
-                <ANNOTATION_VALUE>Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6703,7 +6703,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3007" TIME_SLOT_REF1="ts1062" TIME_SLOT_REF2="ts1063">
-                <ANNOTATION_VALUE>Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6723,7 +6723,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3011" TIME_SLOT_REF1="ts1066" TIME_SLOT_REF2="ts1067">
-                <ANNOTATION_VALUE>Beattles</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Beatles</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
