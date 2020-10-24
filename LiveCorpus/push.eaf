@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-23T23:45:06+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-24T19:38:46+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../push.mp4"/>
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../push.wav"/>
@@ -1352,7 +1352,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts374">
-                <ANNOTATION_VALUE>это было бы скучнее конечно но // я бы все равно занимался параллельно // какой-то музыкальной деятельностью /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это было бы скучнее конечно но // я бы всё равно занимался параллельно // какой-то музыкальной деятельностью /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1382,7 +1382,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts462" TIME_SLOT_REF2="ts497">
-                <ANNOTATION_VALUE>но это / все равно лучше чем было в девяносто восьмом году когда я ушел потому что я пришел в лабораторию там было / двенадцать человек // уходил там было // оставалось двое</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>но это / всё равно лучше чем было в девяносто восьмом году когда я ушел потому что я пришел в лабораторию там было / двенадцать человек // уходил там было // оставалось двое</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4213,7 +4213,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2509" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts365">
-                <ANNOTATION_VALUE>все</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>всё</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4638,7 +4638,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2594" TIME_SLOT_REF1="ts465" TIME_SLOT_REF2="ts466">
-                <ANNOTATION_VALUE>все</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>всё</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
