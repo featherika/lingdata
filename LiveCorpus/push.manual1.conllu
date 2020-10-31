@@ -310,7 +310,7 @@
 307	сих	сей	DET	_	Case=Gen|Number=Plur	_	_	_	words@abp1975m#@abp1975m3850.071#850.293
 308	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@abp1975m#@abp1975m3850.293#850.515
 309	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m3850.515#850.737
-310	многие	много	NUM	_	_	_	_	_	words@abp1975m#@abp1975m3850.737#850.959
+310	многие	многий	DET	_	Case=Nom|Number=Plur	_	_	_	words@abp1975m#@abp1975m3850.737#850.959
 311	называют	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m3850.959#851.181
 312	так	так	ADV	_	Degree=Pos	_	_	_	words@abp1975m#@abp1975m3851.181#851.406
 313	Битлы	Битлы	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@abp1975m#@abp1975m3854.657#855.13
@@ -402,7 +402,7 @@
 399	о	о	ADP	_	_	_	_	_	words@abp1975m#@abp1975m3899.129#899.354
 400	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@abp1975m#@abp1975m3899.354#899.579
 401	что	что	SCONJ	_	_	_	_	_	words@abp1975m#@abp1975m3899.579#899.804
-402	многие	много	NUM	_	_	_	_	_	words@abp1975m#@abp1975m3899.804#900.029
+402	многие	многий	DET	_	Case=Nom|Number=Plur	_	_	_	words@abp1975m#@abp1975m3899.804#900.029
 403	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@abp1975m#@abp1975m3900.029#900.254
 404	боятся	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@abp1975m#@abp1975m3900.254#900.479
 405	вот	вот	PART	_	_	_	_	_	words@abp1975m#@abp1975m3900.479#900.704
