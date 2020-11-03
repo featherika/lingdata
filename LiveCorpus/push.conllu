@@ -700,7 +700,7 @@
 697	Хокинг	Хокинг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m3990.903#991.11
 698	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m3991.11#991.317
 699	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m3991.317#991.524
-700	талатнливый	талатнливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m3991.524#991.731
+700	талантливый	талантливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m3991.524#991.731
 701	в	в	ADP	_	_	_	_	_	words@abp1975m#@abp1975m3991.731#991.938
 702	физике	физика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@abp1975m#@abp1975m3991.938#992.145
 703	?	?	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m3992.145#992.354
