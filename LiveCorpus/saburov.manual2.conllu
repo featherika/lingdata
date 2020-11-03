@@ -301,7 +301,7 @@
 298	/	/	PUNCT	_	_	995	punct	_	words@ns1991m#@ns1991m#1258.628#1258.934
 299	сука	сука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	607	conj	_	words@ns1991m#@ns1991m#1258.934#1259.24
 300	/	/	PUNCT	_	_	280	punct	_	words@ns1991m#@ns1991m#1259.24#1259.546
-301	ёё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	995	conj	_	words@ns1991m#@ns1991m#1259.546#1259.852
+301	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	995	conj	_	words@ns1991m#@ns1991m#1259.546#1259.852
 302	/	/	PUNCT	_	_	303	punct	_	words@ns1991m#@ns1991m#1259.852#1260.158
 303	надо	надо	VERB	_	_	746	conj	_	words@ns1991m#@ns1991m#1260.158#1260.464
 304	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	303	cop	_	words@ns1991m#@ns1991m#1260.464#1260.77
