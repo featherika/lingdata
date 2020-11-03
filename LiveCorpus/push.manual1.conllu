@@ -812,7 +812,7 @@
 809	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31038.346#1038.65
 810	это	это	PRON	_	_	_	_	_	words@abp1975m#@abp1975m31038.65#1038.954
 811	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31038.954#1039.258
-812	продюссерский	продюссерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m31039.258#1039.562
+812	продюсерский	продюсерский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m31039.258#1039.562
 813	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31039.562#1039.866
 814	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31039.866#1040.17
 815	высер	высер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m31040.17#1040.474
@@ -1003,7 +1003,7 @@
 1000	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	words@abp1975m#@abp1975m31120.487#1120.811
 1001	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31120.811#1121.135
 1002	ценник	ценник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@abp1975m#@abp1975m31121.135#1121.459
-1003	приклеели	приклееть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m31121.459#1121.783
+1003	приклеили	приклеить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m31121.459#1121.783
 1004	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@abp1975m#@abp1975m31121.783#1122.107
 1005	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m31122.107#1122.431
 1006	вот	вот	PART	_	_	_	_	_	words@abp1975m#@abp1975m31122.431#1122.755
@@ -1078,7 +1078,7 @@
 1075	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@abp1975m#@abp1975m31138.489#1138.635
 1076	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m31138.635#1138.781
 1077	#нрзб#	#нрзб#	X	_	Foreign=Yes	_	_	_	words@abp1975m#@abp1975m31138.781#1138.927
-1078	по-современному	по-современный	ADV	_	Degree=Pos	_	_	_	words@abp1975m#@abp1975m31138.927#1139.073
+1078	по-современному	по-современному	ADV	_	Degree=Pos	_	_	_	words@abp1975m#@abp1975m31138.927#1139.073
 1079	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31139.073#1139.219
 1080	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31139.219#1139.381
 1081	#нрзб#	#нрзб#	X	_	_	_	_	_	words@abp1975m#@abp1975m31139.683#1140.457
@@ -1101,7 +1101,7 @@
 1098	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m31143.55#1143.813
 1099	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	words@abp1975m#@abp1975m31143.813#1144.076
 1100	объяснения	объяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	words@abp1975m#@abp1975m31144.076#1144.339
-1101	теоритические	теоритический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@abp1975m#@abp1975m31144.339#1144.602
+1101	теоретические	теоретический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@abp1975m#@abp1975m31144.339#1144.602
 1102	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31144.602#1144.865
 1103	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m31144.865#1145.134
 1104	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@abp1975m#@abp1975m31145.473#1145.807
