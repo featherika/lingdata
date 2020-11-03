@@ -327,7 +327,7 @@
 324	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@abp1975m#@abp1975m3858.972#859.25
 325	висел	висеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@abp1975m#@abp1975m3859.25#859.528
 326	/	/	PUNCT	_	_	_	_	_	words@abp1975m#@abp1975m3859.528#859.812
-327	пантера	пантера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@abp1975m#@abp1975m3860.088#860.382
+327	Пантера	Пантера	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@abp1975m#@abp1975m3860.088#860.382
 328	конечно	конечно	PART	_	_	_	_	_	words@abp1975m#@abp1975m3860.382#860.676
 329	да	да	PART	_	_	_	_	_	words@abp1975m#@abp1975m3860.676#860.972
 330	немножко	немножко	ADV	_	Degree=Pos	_	_	_	words@abp1975m#@abp1975m3863.316#863.677
