@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T01:41:40+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T01:52:07+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../corpus/push.mp4"/>
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.mp4" MEDIA_URL="file:///Users/anzhelikakrasnovid/Desktop/corpus/push.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../corpus/push.wav"/>
@@ -1447,7 +1447,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts1438" TIME_VALUE="1146638"/>
         <TIME_SLOT TIME_SLOT_ID="ts1439" TIME_VALUE="1146810"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@abp1975m" TIER_ID="text@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@abp1975m" TIER_ID="text@abp1975m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts23">
                 <ANNOTATION_VALUE>Будильник // я смотрел //</ANNOTATION_VALUE>
@@ -1864,7 +1864,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dyp1961m" TIER_ID="text@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dyp1961m" TIER_ID="text@dyp1961m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>три телепередачи которые ты смотрел когда был маленьким?</ANNOTATION_VALUE>
@@ -2026,7 +2026,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="words@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="words@dyp1961m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2028" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>три</ANNOTATION_VALUE>
@@ -3348,7 +3348,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="words@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="words@abp1975m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2292" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
                 <ANNOTATION_VALUE>Будильник</ANNOTATION_VALUE>
@@ -7565,7 +7565,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="pos@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="pos@abp1975m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5349" ANNOTATION_REF="a2292">
                 <ANNOTATION_VALUE>PROPN</ANNOTATION_VALUE>
@@ -11782,7 +11782,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="pos@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="pos@dyp1961m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6192" ANNOTATION_REF="a2028">
                 <ANNOTATION_VALUE>NUM</ANNOTATION_VALUE>
@@ -13104,7 +13104,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="grammatical features" PARENT_REF="words@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="gram@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammatical features" PARENT_REF="words@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="gram@abp1975m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7563" ANNOTATION_REF="a2292">
                 <ANNOTATION_VALUE>Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
@@ -17321,7 +17321,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="grammatical features" PARENT_REF="words@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="gram@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="grammatical features" PARENT_REF="words@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="gram@dyp1961m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8406" ANNOTATION_REF="a2028">
                 <ANNOTATION_VALUE>Animacy=Inan|Case=Acc</ANNOTATION_VALUE>
@@ -18643,7 +18643,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="intonation@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="intonation@abp1975m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8670" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
@@ -19040,7 +19040,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="intonation@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="intonation@dyp1961m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8743" ANNOTATION_REF="a101">
                 <ANNOTATION_VALUE>вопрос специальный</ANNOTATION_VALUE>
@@ -19187,7 +19187,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@abp1975m" TIER_ID="gesture@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@abp1975m" TIER_ID="gesture@abp1975m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8780" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts21">
                 <ANNOTATION_VALUE>опускает голову и наклоняет корпус вперед</ANNOTATION_VALUE>
@@ -19624,7 +19624,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="gestMeaning@abp1975m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@abp1975m" PARTICIPANT="@abp1975m" TIER_ID="gestMeaning@abp1975m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8837" ANNOTATION_REF="a8780">
                 <ANNOTATION_VALUE>риторический жест: акцент на названии телепередачи</ANNOTATION_VALUE>
@@ -20061,7 +20061,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@dyp1961m" TIER_ID="gesture@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@dyp1961m" TIER_ID="gesture@dyp1961m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8894" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
                 <ANNOTATION_VALUE>левая ладонь дважды хлопает по левому бедру</ANNOTATION_VALUE>
@@ -20168,7 +20168,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="featherika" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="gestMeaning@dyp1961m">
+    <TIER ANNOTATOR="featherika" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="gesture@dyp1961m" PARTICIPANT="@dyp1961m" TIER_ID="gestMeaning@dyp1961m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8900" ANNOTATION_REF="a8894">
                 <ANNOTATION_VALUE>поддержка собственной коммуникации</ANNOTATION_VALUE>
@@ -20286,6 +20286,7 @@
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="grammatical features" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="intonation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="en"/>
     <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
